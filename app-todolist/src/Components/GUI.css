@@ -1,0 +1,68 @@
+.Background {
+    background-color: cornflowerblue;
+    color: antiquewhite;
+}
+.Background1 {
+    background-color: burlywood;
+    color: antiquewhite;
+}
+.Header {
+    color: #171bff;
+    text-align: center;
+}
+.Control {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.Sort {
+    background-color: cornflowerblue;
+    color: antiquewhite;
+    width: 130px;
+}
+.List {
+    width: 757px;
+    height:120px;
+    margin: 30px 0px 0px 230px;
+    text-align: center;
+}
+.SV {
+    width: 757px;
+    margin: 0px 0px 0px 200px;
+    text-align: center;
+}
+.Delete {
+    background-color: crimson;
+    color: antiquewhite;
+}
+.Edit {
+    background-color: darkseagreen;
+    color: antiquewhite;
+}
+.Save {
+    background-color: burlywood;
+    color: antiquewhite;
+}
+.FirstRow {
+    background-color: darkgrey;
+    color: antiquewhite;
+}
+.FirstRow1 {
+    background-color: darkgrey;
+    color: #171bff;
+}
+.FirstRow2 {
+    background-color: bisque;
+    color: darkmagenta;
+}
+.form {
+    display: flex;
+    justify-content: center;
+}
+.home {
+    display: flex;
+    color: #171bff;
+    justify-content: center;
+}
+
